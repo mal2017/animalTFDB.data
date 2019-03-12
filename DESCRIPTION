@@ -1,9 +1,9 @@
 Package: animalTFDB.data
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
+Title: Metadata relating to transcription factors
+Version: 0.2.0
 Author: Matthew Lawlor
-Maintainer: The package maintainer <yourself@somewhere.net>
+Maintainer: Matthew Lawlor <matt.a.lawlor@gmail.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 Imports: 
