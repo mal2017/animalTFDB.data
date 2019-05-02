@@ -1,11 +1,10 @@
 Package: animalTFDB.data
 Type: Package
 Title: Metadata relating to transcription factors
-Version: 0.2.0
+Version: 0.3.0
 Author: Matthew Lawlor
 Maintainer: Matthew Lawlor <matt.a.lawlor@gmail.com>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Holds some tables from the animalTFDB/humanTFDB.
 Imports: 
   dplyr
 License: MIT + file LICENSE
